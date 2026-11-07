@@ -75,12 +75,12 @@ I am a self-employed **IT Specialist and Full-Stack Systems Engineer** with over
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Es1amAshraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Es1amAshraf&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Es1amAshraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Es1amAshraf&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Es1amAshraf&theme=tokyonight&hide_border=true" width="97%" />
+<img src="https://streak-stats.demolab.com/?user=Es1amAshraf&theme=tokyonight&hide_border=true" width="97%" />
 
 </div>
 
