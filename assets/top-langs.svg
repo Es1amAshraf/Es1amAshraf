@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-label="Most Used Languages">
+  <!-- stats-scope: public+private -->
+  <style>
+    .title { font: 700 17px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .lang-name { font: 600 12.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+    .lang-pct { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .foot { font: 500 9.5px 'Segoe UI', Ubuntu, Sans-Serif; fill: #565f89; }
+  </style>
+  <defs>
+    <clipPath id="bar-clip">
+      <rect x="0" y="0" width="445" height="9" rx="4.5"/>
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#1a1b27" stroke="#2f3549" stroke-opacity="0.55"/>
+  <text x="25" y="34" class="title">Most Used Languages</text>
+  <g transform="translate(25, 52)" clip-path="url(#bar-clip)">
+    <rect x="0.00" y="0" width="147.55" height="9" fill="#67b8de"/><rect x="147.55" y="0" width="135.22" height="9" fill="#e34c26"/><rect x="282.77" y="0" width="63.35" height="9" fill="#f1e05a"/><rect x="346.13" y="0" width="53.66" height="9" fill="#663399"/><rect x="399.78" y="0" width="23.24" height="9" fill="#012456"/><rect x="423.02" y="0" width="17.53" height="9" fill="#a91e50"/><rect x="440.55" y="0" width="3.28" height="9" fill="#00B4AB"/><rect x="443.83" y="0" width="1.17" height="9" fill="#b07219"/><rect x="445.00" y="0" width="0.00" height="9" fill="#565f89"/>
+  </g>
+  
+  <g transform="translate(25, 89)">
+    <circle cx="5" cy="-4" r="5" fill="#67b8de" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">Liquid <tspan class="lang-pct">33.16%</tspan></text>
+  </g>
+  <g transform="translate(25, 111)">
+    <circle cx="5" cy="-4" r="5" fill="#e34c26" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">HTML <tspan class="lang-pct">30.39%</tspan></text>
+  </g>
+  <g transform="translate(25, 133)">
+    <circle cx="5" cy="-4" r="5" fill="#f1e05a" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">JavaScript <tspan class="lang-pct">14.24%</tspan></text>
+  </g>
+  <g transform="translate(25, 155)">
+    <circle cx="5" cy="-4" r="5" fill="#663399" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">CSS <tspan class="lang-pct">12.06%</tspan></text>
+  </g>
+  <g transform="translate(262, 89)">
+    <circle cx="5" cy="-4" r="5" fill="#012456" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">PowerShell <tspan class="lang-pct">5.22%</tspan></text>
+  </g>
+  <g transform="translate(262, 111)">
+    <circle cx="5" cy="-4" r="5" fill="#a91e50" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">EJS <tspan class="lang-pct">3.94%</tspan></text>
+  </g>
+  <g transform="translate(262, 133)">
+    <circle cx="5" cy="-4" r="5" fill="#00B4AB" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">Dart <tspan class="lang-pct">0.74%</tspan></text>
+  </g>
+  <g transform="translate(262, 155)">
+    <circle cx="5" cy="-4" r="5" fill="#b07219" stroke="#ffffff" stroke-opacity="0.22" stroke-width="0.7"/>
+    <text x="16" y="0" class="lang-name">Java <tspan class="lang-pct">0.19%</tspan></text>
+  </g>
+  <text x="472" y="183" text-anchor="end" class="foot">All 9 Repos (Public + Private) · 2026-11-21</text>
+</svg>
