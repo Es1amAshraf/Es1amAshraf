@@ -12,7 +12,7 @@
 [![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer%20Program-blue.svg?logo=github&style=for-the-badge)](#)
 [![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-green.svg?style=for-the-badge)](#)
 [![Security Rating](https://img.shields.io/badge/Security-A%2B%20Hardened-brightgreen.svg?style=for-the-badge)](#)
-[![Flutter Native](https://img.shields.io/badge/Mobile-Flutter%20Ops%20v2.1.1-02569B.svg?logo=flutter&style=for-the-badge)](https://github.com/Es1amAshraf/unlock-server-ops-flutter)
+[![Live Storefront](https://img.shields.io/badge/Live-unlockdigital.online-e0161e?style=for-the-badge)](https://unlockdigital.online)
 
 ---
 
@@ -49,15 +49,7 @@ I am a self-employed **IT Specialist and Full-Stack Systems Engineer** with over
 
 ## 🌟 Featured Projects
 
-### 📱 [Unlock Server Ops — Native Flutter Edition (`v2.1.1`)](https://github.com/Es1amAshraf/unlock-server-ops-flutter)
-> Cross-platform mobile administration app engineered 100% in Native Flutter/Dart. Delivers sub-second SSE threat push alerts (with max-priority heads-up notifications & one-tap alert verification), persistent IP Whitelist Manager, hardware biometrics, interactive Doctor terminal pills (`PM2`, `Fail2ban`, `Nginx`), Cloudflare R2 backup sync, WAF bypass integration, and CodeQL + Dependabot CI.
-- **Tech Stack**: Flutter 3, Dart, BiometricPrompt, SSE Streams, Cloudflare WAF, CodeQL, GitHub Actions CI/CD.
-
-### 🏛️ [Unlock Digital — DevOps Infrastructure Blueprint](https://github.com/Es1amAshraf/unlock-devops-infrastructure)
-> Unified DevOps and bilingual (EN/AR) architecture blueprint powering Unlock Digital. Documents Oracle Cloud ARM64 VPS (`130.61.217.8`), Cloudflare Edge WAF (330+ PoPs), Nginx reverse proxy with HTTP 444 origin cloaking, PM2 cluster, Docker microservices (Uptime Kuma, Outline VPN, Watchtower), and automated Cloudflare R2 off-site disaster recovery.
-- **Tech Stack**: Oracle Cloud ARM64, Cloudflare WAF & R2, Nginx, Docker, PM2, SQLite WAL, Fail2ban.
-
-### 🛍️ [Unlock Digital Storefront Core (`unlock-commerce`)](https://unlockdigital.online)
+### 🛍️ [Unlock Digital Storefront (`unlockdigital.online`)](https://unlockdigital.online)
 > White-label, zero-framework-bloat digital commerce platform running on Node.js 22 and SQLite WAL mode with a debranded Liquid SSR engine (`mtime` CDN cache-busting), **Bilingual EN/AR SEO** (`hreflang`, `Product`/`Article`/`Organization` JSON-LD, GSC API auditing), **14-tab Admin Panel** with editable Email & WhatsApp templates, **Brevo Transactional Email API v3** (scoped keys + `Reply-To`), **Meta Pixel / CAPI + GA4 + Microsoft Clarity** (with automatic PII/license masking), verified **Downloads Hub**, Baileys WhatsApp, and Telegram Sentinel Ops.
 - **Tech Stack**: Node.js 22, Express, LiquidJS, SQLite WAL, Brevo API v3, Cloudflare WAF (HTTP/3, 0-RTT, Smart Tiered Cache), PM2, GitHub Actions.
 
