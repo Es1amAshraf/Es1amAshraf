@@ -58,8 +58,8 @@ I am a self-employed **IT Specialist and Full-Stack Systems Engineer** with over
 - **Tech Stack**: Oracle Cloud ARM64, Cloudflare WAF & R2, Nginx, Docker, PM2, SQLite WAL, Fail2ban.
 
 ### 🛍️ [Unlock Digital Storefront Core (`unlock-commerce`)](https://unlockdigital.online)
-> White-label, zero-framework-bloat digital commerce platform running on Node.js 22 and SQLite WAL mode with a debranded Liquid SSR engine (`mtime` CDN cache-busting), **Brevo Transactional Email API v3** (scoped keys + `Reply-To`), **Meta Pixel / CAPI + GA4 + Microsoft Clarity** (with automatic PII/license masking), verified **Downloads Hub**, Baileys WhatsApp, and Telegram Sentinel Ops.
-- **Tech Stack**: Node.js 22, Express, LiquidJS, SQLite WAL, Brevo API v3, Cloudflare WAF, PM2, GitHub Actions.
+> White-label, zero-framework-bloat digital commerce platform running on Node.js 22 and SQLite WAL mode with a debranded Liquid SSR engine (`mtime` CDN cache-busting), **Bilingual EN/AR SEO** (`hreflang`, `Product`/`Article`/`Organization` JSON-LD, GSC API auditing), **14-tab Admin Panel** with editable Email & WhatsApp templates, **Brevo Transactional Email API v3** (scoped keys + `Reply-To`), **Meta Pixel / CAPI + GA4 + Microsoft Clarity** (with automatic PII/license masking), verified **Downloads Hub**, Baileys WhatsApp, and Telegram Sentinel Ops.
+- **Tech Stack**: Node.js 22, Express, LiquidJS, SQLite WAL, Brevo API v3, Cloudflare WAF (HTTP/3, 0-RTT, Smart Tiered Cache), PM2, GitHub Actions.
 
 ### 🩺 [Autodesk Licensing Doctor (`v1.5.5+`)](https://github.com/Es1amAshraf/autodesk-licensing-doctor) · [adskdoctor.unlockdigital.online](https://adskdoctor.unlockdigital.online)
 > Portable diagnostic, cleanup, and recovery toolkit for Autodesk 2020+ licensing (`ADLS`, `AdSSO`, Identity Manager, WebView2, AutoCAD 2027 NLM blockers). Hardened on `main` with `ProgramData` ACL LPE fixes, Repair Zip Slip guards, and `UNDO.ps1` integrity verification, with automated Pester/PSScriptAnalyzer CI and Cloudflare Pages auto-deployment.
