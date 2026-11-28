@@ -25,7 +25,7 @@ I am a self-employed **IT Specialist and Full-Stack Systems Engineer** with over
 - 🏢 **Founder of [Unlock Digital](https://unlockdigital.online)** — White-label, high-availability enterprise platform for genuine digital software licenses with automated fulfillment and privacy-hardened analytics.
 - 📱 **Mobile Systems Architect** — Creator of `Unlock Server Ops` (`v2.1.1`), a native Flutter DevOps & SRE client for real-time threat telemetry, persistent IP whitelist orchestration, and biometric security.
 - 🛡️ **Passionate about Security & Performance** — Deep expertise in Cloudflare Edge WAF, Nginx reverse proxies (origin cloaking & A+ headers), Linux hardening (Fail2ban, UFW), CodeQL automation, and SQLite WAL concurrency.
-- 🤖 **Automation & Messaging Architect** — Builder of transactional mail pipelines (Brevo API v3 + SPF/DMARC), headless WhatsApp bots (Baileys), and autonomous Telegram Sentinel watchdogs.
+- 🤖 **Automation & Messaging Architect** — Builder of transactional mail pipelines (Resend API + SPF/DKIM/DMARC), headless WhatsApp bots (Baileys), and autonomous Telegram Sentinel watchdogs.
 - 💡 **Always building & solving** — Turning complex licensing, deployment, and desktop UX issues into reliable, zero-touch tooling.
 
 ---
@@ -41,7 +41,7 @@ I am a self-employed **IT Specialist and Full-Stack Systems Engineer** with over
 | **Databases & Storage** | ![SQLite](https://img.shields.io/badge/SQLite-WAL%20Engine-003B57?logo=sqlite&logoColor=white) ![Cloudflare R2](https://img.shields.io/badge/Cloudflare-R2%20Storage-F38020?logo=cloudflare&logoColor=white) |
 | **Cloud & DevOps** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-WAF%20%7C%20Pages%20%7C%20R2-F38020?logo=cloudflare&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-ARM64%20VPS-F80000?logo=oracle&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04%20LTS-E95420?logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-Process%20Manager-2B037A?logo=pm2&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white) |
 | **CI/CD & Security** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white) ![CodeQL](https://img.shields.io/badge/CodeQL-SAST-181717?logo=github) ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-Monitoring-brightgreen) ![Fail2ban](https://img.shields.io/badge/Fail2ban-Intrusion%20Defense-red?logo=linux&logoColor=white) ![SSL](https://img.shields.io/badge/Strict%20SSL-A%2B%20Certified-brightgreen) |
-| **Automation & Messaging** | ![Brevo](https://img.shields.io/badge/Brevo-API%20v3%20Mail-0B996E) ![Telegram](https://img.shields.io/badge/Telegram%20Bot-Sentinel%20Ops-26A5E4?logo=telegram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-Baileys%20Engine-25D366?logo=whatsapp&logoColor=white) |
+| **Automation & Messaging** | ![Resend](https://img.shields.io/badge/Resend-Transactional%20Mail-000000?logo=resend&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram%20Bot-Sentinel%20Ops-26A5E4?logo=telegram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-Baileys%20Engine-25D366?logo=whatsapp&logoColor=white) |
 
 </div>
 
@@ -50,8 +50,8 @@ I am a self-employed **IT Specialist and Full-Stack Systems Engineer** with over
 ## 🌟 Featured Projects
 
 ### 🛍️ [Unlock Digital Storefront (`unlockdigital.online`)](https://unlockdigital.online)
-> White-label, zero-framework-bloat digital commerce platform running on Node.js 22 and SQLite WAL mode with a debranded Liquid SSR engine (`mtime` CDN cache-busting), **Bilingual EN/AR SEO** (`hreflang`, `Product`/`Article`/`Organization` JSON-LD, GSC API auditing), **14-tab Admin Panel** with editable Email & WhatsApp templates, **Brevo Transactional Email API v3** (scoped keys + `Reply-To`), **Meta Pixel / CAPI + GA4 + Microsoft Clarity** (with automatic PII/license masking), verified **Downloads Hub**, Baileys WhatsApp, and Telegram Sentinel Ops.
-- **Tech Stack**: Node.js 22, Express, LiquidJS, SQLite WAL, Brevo API v3, Cloudflare WAF (HTTP/3, 0-RTT, Smart Tiered Cache), PM2, GitHub Actions.
+> White-label, zero-framework-bloat digital commerce platform running on Node.js 22 and SQLite WAL mode with a debranded Liquid SSR engine (`mtime` CDN cache-busting), **Bilingual EN/AR SEO** (`hreflang`, `Product`/`Article`/`Organization` JSON-LD, GSC API auditing), **14-tab Admin Panel** with editable Email & WhatsApp templates, **Resend Transactional Email API** (scoped keys + `Reply-To`), **Meta Pixel / CAPI + GA4 + Microsoft Clarity** (with automatic PII/license masking), verified **Downloads Hub**, Baileys WhatsApp, and Telegram Sentinel Ops.
+- **Tech Stack**: Node.js 22, Express, LiquidJS, SQLite WAL, Resend API, Cloudflare WAF (HTTP/3, 0-RTT, Smart Tiered Cache), PM2, GitHub Actions.
 
 ### 🩺 [Autodesk Licensing Doctor (`v1.5.5+`)](https://github.com/Es1amAshraf/autodesk-licensing-doctor) · [adskdoctor.unlockdigital.online](https://adskdoctor.unlockdigital.online)
 > Portable diagnostic, cleanup, and recovery toolkit for Autodesk 2020+ licensing (`ADLS`, `AdSSO`, Identity Manager, WebView2, AutoCAD 2027 NLM blockers). Hardened on `main` with `ProgramData` ACL LPE fixes, Repair Zip Slip guards, and `UNDO.ps1` integrity verification, with automated Pester/PSScriptAnalyzer CI and Cloudflare Pages auto-deployment.
